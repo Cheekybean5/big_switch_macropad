@@ -74,7 +74,7 @@ PCB:
 
   
 
-![PCB](./assets/pcb editor.png)
+![PCB](./assets/pcb_editor.png)
 
   
 
@@ -89,7 +89,7 @@ This project utilizes [QMK](https://qmk.fm/) firmware.
 
 Here is the Default Keymap and Keycodes Assigned to it:
 
- ![default keymap](./assets/Default Keymap Assignments.png)
+ ![default keymap](./assets/default_keymap_assignments.png)
 
 - The Big Switch acts as a large "off button" and is wired into the Matrix
 
